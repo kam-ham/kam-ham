@@ -1,41 +1,26 @@
-## Hi there 👋
+# [BOOT_SEQUENCE]: [Tu Nombre]
 
-<!--
-**kam-ham/kam-ham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# [SYSTEM_OVERRIDE]: [Tu Nombre o Nickname]
-
-Desarrollador de software y arquitecto de código. Operando desde las sombras del desarrollo [web / backend / mobile]. Actualmente optimizando procesos en segundo plano y explorando nuevas fronteras tecnológicas.
+Estudiante de programador.
 
 ---
 
-## // STACK_TECNOLOGICO
+## // MODULOS_EN_PROCESO
 
-* **Core:** JavaScript, TypeScript, Python
-* **Estructuras:** React, Next.js, Node.js
-* **Entornos:** Git, Docker, Linux
-
----
-
-## // LOG_DE_PROYECTOS
-
-* **[Proyecto_Alfa](link):** Herramienta diseñada para [función del proyecto]. Eficiente y modular.
-* **[Proyecto_Beta](link):** Repositorio dedicado a [función del proyecto].
+* **Lógica / Código:** Java (Fundamentos,)
+* **Datos / Almacenamiento:** SQL, MySQL
+* **Entornos / Control:** Git, Linux, GitHub
 
 ---
 
-## // CANALES_DE_FRECUENCIA
+## // REGISTRO_DE_PRUEBAS
 
+* **[Primeros_Pasos](link):** Repositorio dedicado a ejercicios de clase, algoritmos básicos y pruebas de código.
+* **[Proyecto_Inicial](link):** Mi primera aplicación funcional para consola / terminal.
+
+---
+
+## // CANAL_DE_CONTACTO
+
+* **Terminal_Email:** [tu-email@correo.com](mailto:tu-email@correo.com)
 * **Red_Profesional:** [LinkedIn](tu-enlace)
-* **Enlace_Directo:** [tu-email@correo.com](mailto:tu-email@correo.com)
+
