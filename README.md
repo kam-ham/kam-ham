@@ -15,7 +15,7 @@ Estudiante de programador.
 ## // REGISTRO_DE_PRUEBAS
 
 * **[Primeros_Pasos]:** Repositorio dedicado a ejercicios de clase, algoritmos básicos y pruebas de código.
-* **[Proyecto_Inicial]:** Mi primera aplicación funcional para consola / terminal.
+* **[Proyecto_Inicial]:** Pending....
 
 ---
 
