@@ -14,13 +14,9 @@ Estudiante de programador.
 
 ## // REGISTRO_DE_PRUEBAS
 
-* **[Primeros_Pasos](link):** Repositorio dedicado a ejercicios de clase, algoritmos básicos y pruebas de código.
-* **[Proyecto_Inicial](link):** Mi primera aplicación funcional para consola / terminal.
+* **[Primeros_Pasos]:** Repositorio dedicado a ejercicios de clase, algoritmos básicos y pruebas de código.
+* **[Proyecto_Inicial]:** Mi primera aplicación funcional para consola / terminal.
 
 ---
 
-## // CANAL_DE_CONTACTO
-
-* **Terminal_Email:** [tu-email@correo.com](mailto:tu-email@correo.com)
-* **Red_Profesional:** [LinkedIn](tu-enlace)
 
