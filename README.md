@@ -15,7 +15,7 @@ Estudiante de programador.
 ## // REGISTRO_DE_PRUEBAS
 
 * **[Primeros_Pasos]:** Repositorio dedicado a ejercicios de clase, algoritmos básicos y pruebas de código.
-* **[Proyecto_Inicial]:** Pending....
+* **[Proyectos]:** Pending....
 
 ---
 
