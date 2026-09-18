@@ -1,4 +1,4 @@
-# [BOOT_SEQUENCE]: [Tu Nombre]
+# [BOOT_SEQUENCE]: [KAM-HAM]
 
 Estudiante de programador.
 
